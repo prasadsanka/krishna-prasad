@@ -7,13 +7,10 @@ prasanna
 mani
 srinu
 padma
-<<<<<<< HEAD
 padma 
 mohan
 rangarao
-=======
 mohan
 padma
 pandu
 sarojani
->>>>>>> a0b5fc87522eafc9d532f67c9099ee6c6fc6fd63
