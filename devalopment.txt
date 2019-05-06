@@ -16,10 +16,8 @@ pandu
 sarojani
 siva sai
 mounika
-jameel
-kish
-john
 chinnam
 lakshman
-ashok
-prasad
+john
+jameel
+kishore
