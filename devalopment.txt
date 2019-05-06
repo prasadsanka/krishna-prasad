@@ -16,9 +16,6 @@ pandu
 sarojani
 siva sai
 mounika
-jameel
-kish
-john
 chinnam
 lakshman
 ashok
@@ -29,3 +26,7 @@ hemanth
 neha
 bindu
 naVYA
+john
+jameel
+kishore
+
